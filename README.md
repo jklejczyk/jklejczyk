@@ -4,7 +4,7 @@ Full-stack developer (Laravel + Vue 3 / TypeScript) z 3-letnim komercyjnym staż
 
 **Nad czym pracuję**
 - [DentalPulse](https://dentalpulse.pl) — system do zarządzania gabinetem stomatologicznym, zbudowany od zera i wdrożony produkcyjnie w 2 gabinetach (dokumentacja 6000+ pacjentów).
-- Platforma eNGO w Nexmode — używana przez 100+ jednostek samorządowych.
+- Platforma eNGO w Nexmode — używana przez 130+ jednostek samorządowych.
 
 **Stack**
 - Backend: PHP 8.3, Laravel 11/12, REST API, Redis, PostgreSQL, MySQL
